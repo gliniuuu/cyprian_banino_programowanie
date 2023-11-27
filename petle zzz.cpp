@@ -3,6 +3,20 @@
 using namespace std;
 int main()
 {
-   std::cout << "Hello World!\n";
-}
+	short liczba
+		cout << "podaj liczbe";
+	cin >> liczba;
+	do {
+
+		cout << liczba << ", ";
+		liczba = liczba / 2;
+
+
+
+	}while(liczba >0)
+	
+	
+	
+	
+	
 
